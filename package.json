@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kweiberth/react-todo-list.git"
+    "url": "https://github.com/daiict218/freighttrackers-ui"
   },
-  "author": "Kurt Weiberth",
+  "author": "Ajay Gaur",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.4.5",
